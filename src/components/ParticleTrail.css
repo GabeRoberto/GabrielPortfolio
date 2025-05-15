@@ -1,0 +1,12 @@
+.particle {
+  position: absolute;
+  border-radius: 9999px;
+  transform: translate(-50%, -50%);
+  width: var(--size);
+  height: var(--size);
+  background-color: var(--color);
+  opacity: var(--opacity);
+  box-shadow: 0 0 var(--glow) var(--glow-color);
+  left: var(--x);
+  top: var(--y);
+} 

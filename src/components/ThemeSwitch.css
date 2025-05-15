@@ -1,0 +1,5 @@
+.theme-switch-button {
+  pointer-events: auto;
+  position: relative;
+  z-index: 9999;
+} 
